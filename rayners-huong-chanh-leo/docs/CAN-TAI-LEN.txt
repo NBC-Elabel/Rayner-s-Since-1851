@@ -1,0 +1,8 @@
+Tải PDF vào thư mục này, đặt ĐÚNG tên tệp:
+
+- ban-tu-cong-bo-106-holafoods-2018.pdf   (Bản tự công bố sản phẩm)
+- ban-dac-ta-rayners-huong-chanh-leo-28ml.pdf   (Bản đặc tả sản phẩm)
+- nhan-goc-rayners-huong-chanh-leo-28ml.pdf   (Nhãn gốc sản phẩm)
+- cong-van-bo-sung-quy-cach.pdf   (Công văn xin bổ sung quy cách, kèm nhãn phụ bản 2)
+
+Tệp nào chưa có thì nhãn tự ẩn. Có thể xoá tệp hướng dẫn này sau khi tải xong.

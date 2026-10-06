@@ -1,0 +1,8 @@
+Tải PDF vào thư mục này, đặt ĐÚNG tên tệp:
+
+- ban-tu-cong-bo-081-holafoods-2018.pdf   (Bản tự công bố sản phẩm)
+- nhan-goc-rayners-huong-vanilla-28ml.pdf   (Nhãn gốc sản phẩm)
+- cong-van-bo-sung-quy-cach.pdf   (Công văn xin bổ sung quy cách, kèm nhãn phụ bản 2)
+- cong-van-1505-2026-cv-hl.pdf   (Công văn số 1505/2026/CV-HL ngày 15/05/2026, kèm nhãn phụ bản 3)
+
+Tệp nào chưa có thì nhãn tự ẩn. Có thể xoá tệp hướng dẫn này sau khi tải xong.

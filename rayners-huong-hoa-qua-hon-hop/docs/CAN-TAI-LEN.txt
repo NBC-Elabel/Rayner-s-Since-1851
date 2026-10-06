@@ -1,0 +1,7 @@
+Tải PDF vào thư mục này, đặt ĐÚNG tên tệp:
+
+- ban-tu-cong-bo-221-holafoods-2019.pdf   (Bản tự công bố sản phẩm)
+- ban-dac-ta-rayners-huong-hoa-qua-hon-hop-28ml.pdf   (Bản đặc tả sản phẩm)
+- nhan-goc-rayners-huong-hoa-qua-hon-hop-28ml.pdf   (Nhãn gốc sản phẩm)
+
+Tệp nào chưa có thì nhãn tự ẩn. Có thể xoá tệp hướng dẫn này sau khi tải xong.

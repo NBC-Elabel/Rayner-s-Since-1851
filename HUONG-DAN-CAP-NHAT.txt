@@ -1,0 +1,16 @@
+CẤU TRÚC
+  <ma_nhan>/index.html        ← nhãn (KHÔNG cần sửa)
+  <ma_nhan>/docs/             ← nơi thả PDF của sản phẩm đó
+  <ma_nhan>/docs/CAN-TAI-LEN.txt ← danh sách tên PDF cần tải
+  data/san-pham.json          ← nội dung 21 nhãn
+
+Đường dẫn nhãn: nbc-elabel.github.io/Rayner-s/<ma_nhan>/
+
+THÊM PDF
+  1. Mở thư mục <ma_nhan>/docs/ trên GitHub
+  2. Add file → Upload files → kéo PDF vào (đúng tên trong CAN-TAI-LEN.txt)
+  3. Commit changes. ~1 phút sau nhãn tự hiện tài liệu.
+
+SỬA NỘI DUNG / THÊM TÀI LIỆU MỚI
+  Mở data/san-pham.json → biểu tượng bút → sửa → Commit.
+  Thêm tài liệu: cuối dòng "tai_lieu" thêm  ; Tên tài liệu | Số hiệu | ten-tep.pdf

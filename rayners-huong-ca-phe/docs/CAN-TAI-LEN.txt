@@ -1,0 +1,6 @@
+Tải PDF vào thư mục này, đặt ĐÚNG tên tệp:
+
+- ban-tu-cong-bo-099-holafoods-2018.pdf   (Bản tự công bố sản phẩm)
+- cong-van-bo-sung-quy-cach.pdf   (Công văn xin bổ sung quy cách, kèm nhãn phụ bản 2)
+
+Tệp nào chưa có thì nhãn tự ẩn. Có thể xoá tệp hướng dẫn này sau khi tải xong.
